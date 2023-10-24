@@ -7,7 +7,6 @@ import components.GPSNavigator;
 import components.Transmission;
 import components.TripComputer;
 
-
 /**
  * Concrete builders implement steps defines in the common interface.
  */

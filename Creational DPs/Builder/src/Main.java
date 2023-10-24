@@ -7,6 +7,7 @@ import director.Director;
 /**
  * Everything comes together here.
  */
+
 public class Main {
     public static void main(String[] args) {
         Director director = new Director();

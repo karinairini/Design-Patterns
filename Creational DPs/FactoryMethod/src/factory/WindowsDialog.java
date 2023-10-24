@@ -6,6 +6,7 @@ import buttons.WindowsButton;
 /**
  * Windows Dialog will produce Windows buttons.
  */
+
 public class WindowsDialog extends Dialog {
 
     @Override
